@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP_ColorDiff", "CP_ColorDiff\CP_ColorDiff.csproj", "{7265130A-E867-4162-A9DF-C5C52CD10A61}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6A2FDE93-4AB7-4FB6-87DA-6B43A8C2EC41} = {6A2FDE93-4AB7-4FB6-87DA-6B43A8C2EC41}
+		{501886C6-0D90-4765-9155-4DD6B5C06279} = {501886C6-0D90-4765-9155-4DD6B5C06279}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraCapture", "CameraCapture\CameraCapture.csproj", "{6A2FDE93-4AB7-4FB6-87DA-6B43A8C2EC41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recognition", "Recognition\Recognition.csproj", "{501886C6-0D90-4765-9155-4DD6B5C06279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7265130A-E867-4162-A9DF-C5C52CD10A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7265130A-E867-4162-A9DF-C5C52CD10A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7265130A-E867-4162-A9DF-C5C52CD10A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7265130A-E867-4162-A9DF-C5C52CD10A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2FDE93-4AB7-4FB6-87DA-6B43A8C2EC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2FDE93-4AB7-4FB6-87DA-6B43A8C2EC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2FDE93-4AB7-4FB6-87DA-6B43A8C2EC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2FDE93-4AB7-4FB6-87DA-6B43A8C2EC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501886C6-0D90-4765-9155-4DD6B5C06279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501886C6-0D90-4765-9155-4DD6B5C06279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501886C6-0D90-4765-9155-4DD6B5C06279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501886C6-0D90-4765-9155-4DD6B5C06279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Workplace\VS 2015 projects\CP_ColorDiff\Recognition\bin\Release\Recognition.dll
+D:\Workplace\VS 2015 projects\CP_ColorDiff\Recognition\bin\Release\Recognition.pdb
+D:\Workplace\VS 2015 projects\CP_ColorDiff\Recognition\obj\Release\Recognition.csprojResolveAssemblyReference.cache
+D:\Workplace\VS 2015 projects\CP_ColorDiff\Recognition\obj\Release\Recognition.dll
+D:\Workplace\VS 2015 projects\CP_ColorDiff\Recognition\obj\Release\Recognition.pdb
+D:\Workplace\VS\CP_ColorDiff\Recognition\bin\Release\Recognition.dll
+D:\Workplace\VS\CP_ColorDiff\Recognition\bin\Release\Recognition.pdb
+D:\Workplace\VS\CP_ColorDiff\Recognition\obj\Release\Recognition.csprojResolveAssemblyReference.cache
+D:\Workplace\VS\CP_ColorDiff\Recognition\obj\Release\Recognition.dll
+D:\Workplace\VS\CP_ColorDiff\Recognition\obj\Release\Recognition.pdb

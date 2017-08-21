@@ -1,0 +1,28 @@
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\bin\Debug\CP_ColorDiff.exe.config
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\bin\Debug\CP_ColorDiff.exe
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\bin\Debug\CP_ColorDiff.pdb
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.csprojResolveAssemblyReference.cache
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.Form1.resources
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.Properties.Resources.resources
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.csproj.GenerateResource.Cache
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.exe
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.pdb
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\bin\Debug\CameraCapture.dll
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\bin\Debug\CameraCapture.pdb
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\bin\Debug\Recognition.dll
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\bin\Debug\Recognition.pdb
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.FormSettings.resources
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\bin\Debug\CP_ColorDiff.exe.config
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.exe
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.pdb
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\bin\Debug\CP_ColorDiff.exe
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\bin\Debug\CP_ColorDiff.pdb
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\bin\Debug\CameraCapture.dll
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\bin\Debug\Recognition.dll
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\bin\Debug\CameraCapture.pdb
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\bin\Debug\Recognition.pdb
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.csprojResolveAssemblyReference.cache
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.Form1.resources
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.FormSettings.resources
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.Properties.Resources.resources
+D:\Workplace\VS\CP_ColorDiff\CP_ColorDiff\obj\Debug\CP_ColorDiff.csproj.GenerateResource.Cache

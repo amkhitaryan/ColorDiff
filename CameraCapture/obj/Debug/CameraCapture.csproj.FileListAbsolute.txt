@@ -1,0 +1,14 @@
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.CamCapture.resources
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CameraCapture\bin\Debug\CameraCapture.dll
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CameraCapture\bin\Debug\CameraCapture.pdb
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.dll
+D:\Workplace\VS 2015 projects\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.pdb
+D:\Workplace\VS\CP_ColorDiff\CameraCapture\bin\Debug\CameraCapture.dll
+D:\Workplace\VS\CP_ColorDiff\CameraCapture\bin\Debug\CameraCapture.pdb
+D:\Workplace\VS\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+D:\Workplace\VS\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.CamCapture.resources
+D:\Workplace\VS\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+D:\Workplace\VS\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.dll
+D:\Workplace\VS\CP_ColorDiff\CameraCapture\obj\Debug\CameraCapture.pdb

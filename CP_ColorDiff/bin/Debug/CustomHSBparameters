@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<DefHSB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <YellowMaxHue>110</YellowMaxHue>
+  <YellowMinHue>55</YellowMinHue>
+  <YellowMaxSaturation>1</YellowMaxSaturation>
+  <YellowMinSaturation>0.156862745098039</YellowMinSaturation>
+  <YellowMaxBrightness>0.96078431372549011</YellowMaxBrightness>
+  <YellowMinBrightness>0.039215686274509796</YellowMinBrightness>
+  <OrangeMaxHue>54</OrangeMaxHue>
+  <OrangeMinHue>0</OrangeMinHue>
+  <OrangeMaxSaturation>1</OrangeMaxSaturation>
+  <OrangeMinSaturation>0.352941176470588</OrangeMinSaturation>
+  <OrangeMaxBrightness>1</OrangeMaxBrightness>
+  <OrangeMinBrightness>0.078431372549019593</OrangeMinBrightness>
+  <GreenMaxHue>180</GreenMaxHue>
+  <GreenMinHue>111</GreenMinHue>
+  <GreenMaxSaturation>1</GreenMaxSaturation>
+  <GreenMinSaturation>0.176470588235294</GreenMinSaturation>
+  <GreenMaxBrightness>1</GreenMaxBrightness>
+  <GreenMinBrightness>0.039215686274509796</GreenMinBrightness>
+  <PinkMaxHue>360</PinkMaxHue>
+  <PinkMinHue>260</PinkMinHue>
+  <PinkMaxSaturation>1</PinkMaxSaturation>
+  <PinkMinSaturation>0.31999999999999995</PinkMinSaturation>
+  <PinkMaxBrightness>1</PinkMaxBrightness>
+  <PinkMinBrightness>0.176470588235294</PinkMinBrightness>
+  <BlueMaxHue>260</BlueMaxHue>
+  <BlueMinHue>210</BlueMinHue>
+  <BlueMaxSaturation>1</BlueMaxSaturation>
+  <BlueMinSaturation>0.058823529411764705</BlueMinSaturation>
+  <BlueMaxBrightness>0.96078431372549011</BlueMaxBrightness>
+  <BlueMinBrightness>0.0392156862745098</BlueMinBrightness>
+  <MinSaturation>0.058823529411764705</MinSaturation>
+  <MinBrightness>0.039215686274509796</MinBrightness>
+</DefHSB>

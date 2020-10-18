@@ -7,7 +7,7 @@ Possibilities:
 - You can erase, like the eraser mode in regular editors.
 - You can erase, like the undo mode in regular editors, deleting the last drawn lines (they are divided into smaller ones and saved)
 
-Unfortunately, you would not be able to use this program fully on your computer, there is still a lot of thing to do for that. In addition, there are color requirements for each finger and there is a complexity of adjusting the color ratios for correct image processing, which is higly dependent on the current lighting.
+Unfortunately, you would not be able to use this program fully on your computer, there is still a lot to do for that. In addition, there are color requirements for each finger and there is a complexity of adjusting the color ratios for correct image processing, which is higly dependent on the current lighting.
 
 A small demonstration of already configured program: https://yadi.sk/i/-7tsKvkmNrQu8Q
 
